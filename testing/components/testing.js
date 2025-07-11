@@ -1,2 +1,2 @@
-const Nikhil = 1000;
-console.log(Nikhil)
+const Nick = "Nick";
+console.log(Nick);
